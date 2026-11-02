@@ -1,0 +1,17 @@
+{
+  "version": "1.1",
+  "release_tag": "v1.1.0",
+  "build": "20261028061524",
+  "release_date": "2026-11-02",
+  "platform": "macOS",
+  "architecture": "arm64",
+  "minimum_macos": "14.0",
+  "signature": "ad-hoc",
+  "application_source_included": false,
+  "lock_exit_seconds": 0.4,
+  "entry_seconds": 2.0,
+  "executables": {
+    "Contents/MacOS/KaltsitWallpaper": "b952947e9823ea9bd51bad6f7a0da82f44f3555b5b0729807e26161286875fd4",
+    "Contents/Library/Screen Savers/Kaltsit.saver/Contents/MacOS/Kaltsit": "9dcde6c990271cb932be25163ba5fce350ba29e046c405fa81df433de2f2621a"
+  }
+}
